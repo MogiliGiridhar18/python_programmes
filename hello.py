@@ -4,3 +4,5 @@ a=3+4;
 b=9+a;
 c=9;
 print(a,b,c)
+
+print(f"value of c is {c}")
